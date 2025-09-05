@@ -10,12 +10,6 @@ This project analyzes pharmaceutical sales data to derive insights on sales tren
 - Time-series forecasting (`forecasting.py`)
 - Automated visualizations (`visualization.py`)
 
-##  Notebooks
-1. **01_data_exploration.ipynb** – Initial exploration, null checks, summary stats.
-2. **02_sales_analysis.ipynb** – Trends, top drugs, revenue by region.
-3. **03_customer_segmentation.ipynb** – Segmenting high-value customers.
-4. **04_forecasting.ipynb** – Sales forecasting using ARIMA/Prophet.
-
 ##  Tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
 - SQL (via SQLite/Postgres)
