@@ -12,7 +12,7 @@ This project analyzes pharmaceutical sales data to derive insights on sales tren
 
 ##  Tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
-- SQL (via SQLite/Postgres)
+- SQL (via Mysql)
 - Statsmodels / Prophet for forecasting
 
 ##  Expected Outcomes
