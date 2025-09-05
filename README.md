@@ -5,7 +5,7 @@ This project analyzes pharmaceutical sales data to derive insights on sales tren
 
 ## Features
 - Data cleaning and preprocessing (`data_processing.py`)
-- SQL-based analysis queries (`pharma_analysis.py`)
+- SQL-based analysis queries (`pharma_analysis.sql`)
 - Exploratory sales and customer analysis (`analysis.py`)
 - Time-series forecasting (`forecasting.py`)
 - Automated visualizations (`visualization.py`)
